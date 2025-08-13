@@ -1,0 +1,14 @@
+# tuple
+# ..............
+T=(1,2,3,4)
+print("count of 3:", T.count(3))
+print("index:",T.index(3))
+.............................
+mySet={1,2,3,4}
+S1&s2 intersection
+s1+s2 union
+s1-s2 difference
+s1^s2 symmetric difference
+s1.update({ , , ,})
+s1.pop()
+s1.add()
